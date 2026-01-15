@@ -1,4 +1,4 @@
- <img src="https://github.com/user-attachments/assets/b64e71f8-ccc4-4712-b7a2-b002a4c41e06" alt="SIMPLE-EXPOSITOR" width="1000">
+ <img src="https://github.com/user-attachments/assets/dda5adc8-efb1-45f6-8d6c-5d75d70dc744" alt="SIMPLE-EXPOSITOR" width="1000">
 </p>
 
 A lightweight, efficient, and static vehicle display system for **FiveM (ESX Legacy)**. Designed to showcase featured vehicles in dealerships or public areas with zero impact on server performance.
