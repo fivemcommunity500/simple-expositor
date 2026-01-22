@@ -1,21 +1,4 @@
- <img src="https://github.com/user-attachments/assets/dda5adc8-efb1-45f6-8d6c-5d75d70dc744" alt="SIMPLE-EXPOSITOR" width="1000">
-</p>
-
-A lightweight, efficient, and static vehicle display system for **FiveM (ESX Legacy)**. Designed to showcase featured vehicles in dealerships or public areas with zero impact on server performance.
-
----
-
-🚀 Features | Características
-
-- 🧊 Static Entities: Vehicles are frozen in place, preventing them from being moved, pushed, or stolen.
-- 🔒 Total Security: Doors are automatically locked and vehicles are set to invincible to prevent griefing.
-- 🛠️ Easy Configuration: Simple `vector4` setup for coordinates and heading in a single table.
-- ⚙️ Ultra Optimized: Running at **0.00ms**. Models are only requested during the spawning process and then released from memory.
-- 🏎️ Custom Appearance: Set custom license plates for each display vehicle to match your server's branding.
-
----
-
-# 🧊 Simple Expositor | Static Vehicle Display
+ # 🧊 Simple Expositor | Static Vehicle Display
 
 ![GitHub License](https://img.shields.io/badge/license-Personal_Use-blueviolet)
 ![Platform](https://img.shields.io/badge/framework-ESX_Legacy-blue)
